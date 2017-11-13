@@ -8,7 +8,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('reusable_blog', '0002_post_views'),
+        ('resuable_blog', '0002_post_views'),
     ]
 
     operations = [
